@@ -1,6 +1,8 @@
 # DSDN (Decentralized Software Developer Network)
 [[OUR WEBSITE](http://dsdn.wengyifan.com)] [[VIDEO DEMO](https://mouweng01-1256157937.cos.ap-nanjing.myqcloud.com/20211231_dsdn%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)]
 
+Check the demo video first and then you could try our webapp.
+
 ![image](https://user-images.githubusercontent.com/87078682/147881020-c7a28330-b431-4441-828e-01ddef82d33c.png)
 
 
